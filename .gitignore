@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local/runtime caches
+.pytest_cache/
+.mypy_cache/
+
+# Local metadata from previous working sessions
+.agents/
+.codex
+**/.git/

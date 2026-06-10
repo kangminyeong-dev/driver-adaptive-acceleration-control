@@ -1,0 +1,2 @@
+통신키는명령어
+python3 src/udp_receive_pedal.py --port 5005

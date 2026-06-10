@@ -1,0 +1,25 @@
+{
+  "model_name": "efficientnet_b0",
+  "weights_path": "weights/best.pt",
+  "image_width": 256,
+  "image_height": 144,
+  "class_names": [
+    "off",
+    "on"
+  ],
+  "e_mapping": {
+    "off": 0,
+    "on": 1
+  },
+  "switch_threshold": 5,
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ]
+}
