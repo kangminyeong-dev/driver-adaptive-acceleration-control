@@ -98,8 +98,6 @@ python .\notebook_main.py --ip <JETSON_IP>
 
 [영상 파일 열기](visualization/최종시연2차.mp4)
 
-참고: `최종시연2차.mp4`는 파일 크기가 약 124MB라 GitHub 일반 업로드 제한에 걸릴 수 있습니다. 업로드가 막히면 Git LFS를 사용하거나 GitHub Releases에 첨부한 뒤 README의 영상 경로를 해당 URL로 바꾸면 됩니다.
-
 ## 기술 스택
 
 - Python
