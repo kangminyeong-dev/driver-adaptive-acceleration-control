@@ -3,10 +3,7 @@
 운전자 맞춤형 스마트 급가속 제어 시스템
 
 아주대학교 미래모빌리티공학과  
-강민영 [@kangminyeong-dev](https://github.com/kangminyeong-dev), 김선우 [@kimseonwoo12](https://github.com/kimseonwoo12)  
-팀명: 우공이산  
-개발 기간: 2026.03 ~ 2026.06  
-선택주제: (D) 디지털 기반 안전·신뢰 엔지니어링
+(2026.03 ~ 2026.06)
 
 ## 시스템 아키텍처
 ![System Architecture](visualization/architecture.png)
@@ -109,7 +106,3 @@ python .\notebook_main.py --ip <JETSON_IP>
 - Arduino Serial Communication
 - Jetson Orin NX
 - Arduino vehicle platform
-
-## 참고
-
-이 저장소는 캡스톤디자인 최종 제출 및 시연을 위한 소스 코드 정리본입니다. 실행 환경의 IP 주소, Arduino serial 포트, Jetson 카메라 장치 경로는 실제 연결 환경에 맞게 변경해야 합니다.
